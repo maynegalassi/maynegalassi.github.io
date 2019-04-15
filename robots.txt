@@ -1,3 +1,5 @@
+Sitemap: http://maynegalassi.com/sitemap.xml
+
 User-agent: *
 Disallow: /cgi-bin
 
