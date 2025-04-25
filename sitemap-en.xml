@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Main Pages (English) -->
+  <url>
+    <loc>https://www.maynegalassi.com/</loc>
+    <lastmod>2024-03-22</lastmod> 
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/goals</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/goals"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/goals"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/psychologist</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/psychologist"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/psychologist"/>
+  </url>
+
+  <!-- Exercise Detail Pages (English) -->
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex1</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex1"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex1"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex2</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex2"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex2"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex3</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex3"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex3"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex4</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex4"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex4"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex5</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex5"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex5"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex6</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex6"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex6"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex7</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex7"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex7"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex8</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex8"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex8"/>
+  </url>
+  <url>
+    <loc>https://www.maynegalassi.com/exercises/ex9</loc>
+    <lastmod>2024-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.maynegalassi.com/exercises/ex9"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.maynegalassi.com/pt-BR/exercises/ex9"/>
+  </url>
+
+</urlset> 
